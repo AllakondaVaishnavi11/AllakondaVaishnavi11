@@ -1,8 +1,6 @@
-# �� Hi there, Im Vaishnavi!- �� 
-I’m passionate about Full Stack Development
-Cybersecurity- �� 
+# � Hi,Im Vaishnavi!- �
+I’m passionate about Development,Ai&Ml- �
 Currently learning: Ai/ml, DataScience, and GitHub Actions
-�� Fun Fact: I once debugged a 50-line error just by adding a semicolon
 ## ��️ Skills & Tools
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badgelogo=spring-boot&logoColor=white)
